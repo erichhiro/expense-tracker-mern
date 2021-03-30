@@ -13,4 +13,4 @@ No terminal digite:
 
 
 ## Preview
-![Show Case](./public/showcase/download.png)
+![Show Case](./client/public/showcase/download.png)
